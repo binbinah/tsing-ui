@@ -1,6 +1,14 @@
 # tsing-ui
 
-这是一个使用 React 和 Next.js 开发的前端 UI 项目。
+> 目前最佳实践：
+> 框架：ts + react + nextjs（强烈建议，不要用其他）
+> 表单：react-hook-form + yup
+> 样式：tailwindcss + headlessui + css variable
+> 浮动定位：floating-ui
+> 异步状态管理：axios + react-query + zustand + immer
+> 模拟：mswjs（可选）
+> 部署：AWS Amplify（自动化，几乎免费）
+> 这是一个使用 React 和 Next.js 开发的前端 UI 项目。
 
 #### 项目介绍
 
