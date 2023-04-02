@@ -16,7 +16,7 @@ todo
 
 #### 如何运行项目
 
-1. 克隆该代码库到本地：```git clone https://github.com/your-username/your-project.git```
+1. 克隆该代码库到本地：```git clone git@github.com:binbinah/tsing-ui.git```
 2. 进入项目目录，并安装依赖：```npm install```
 3. 运行项目：```npm run dev``` 或 ```yarn dev```
 4. 打开浏览器，访问 http://localhost:3000 即可看到项目运行效果。
